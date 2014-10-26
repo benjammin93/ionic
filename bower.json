@@ -2,7 +2,7 @@
   "name": "Ionic",
   "version": "0.0.1",
   "dependencies": {
-    "ionic": "v1.0.0-beta.13"
+    "ionic": "v1.0.0-beta.13",
     "angular": "~1.2.0",
     "angularfire": "~0.8.0",
     "json3": "~3.3.1",
